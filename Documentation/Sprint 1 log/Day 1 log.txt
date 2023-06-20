@@ -1,0 +1,7 @@
+time worked: 5hrs
+React tools installed
+Synced to git 
+Got Sprint 1 documentation goals and Steps
+Started Development on Navigation Bar 
+Navigation bar works
+Navigation still needs to be designed into proper style
