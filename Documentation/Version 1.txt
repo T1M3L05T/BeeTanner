@@ -1,0 +1,34 @@
+Goals:
+    To take and redesign a Website for a Bee Keeper using modern technologies
+    Make the website disablilty accessible
+    Make the site Modern and pleasing to the eye
+
+Current Tech Stack:
+    HTML/css
+    React Framework
+    node.js
+
+User Story:
+    I attempted to design a website on my own using one of the visual site builders online.
+    It came out looking ok but it looks very plain. I want the cite to be more appealing to
+    my customers that will be coming to buy honey and other services. Or even Supplies for
+    their bee hives.
+
+Steps to achive Goals:
+    Start a react app
+    Design Header
+    Design overall theme for the site
+    add each page into router and app
+    Keep to the orginal content of each page
+    redesign home:
+        (details TBA)
+    redesign Honey
+        (details TBA)
+    redesign Bees
+        (details TBA)
+    redesign services (previously called Let Us Help)
+        (details TBA)
+    redesign Countact Us
+        (details TBA)
+
+
