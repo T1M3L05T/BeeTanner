@@ -21,14 +21,15 @@ Steps to achive Goals:
     add each page into router and app
     Keep to the orginal content of each page
     redesign home:
-        (details TBA)
+        Slideshow of pictures
+        introduction/ about us exerpt
     redesign Honey
-        (details TBA)
+        making individual cards in a tabled format
     redesign Bees
-        (details TBA)
+        making individual cards in a tabled format
     redesign services (previously called Let Us Help)
-        (details TBA)
+        list format
     redesign Countact Us
-        (details TBA)
+        list type format
 
 

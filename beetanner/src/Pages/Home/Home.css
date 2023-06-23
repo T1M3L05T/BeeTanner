@@ -1,0 +1,12 @@
+#Home_card{
+    margin: auto;
+    background-color: #3c3832;
+    width: 90%;
+    height: 300px;
+    color:aliceblue;
+    border-radius: 10px;
+    border: goldenrod 2px solid;
+    text-shadow: 0.5px 0.5px rgb(255,215,0,0.4);
+    text-align: center;
+    font-size: larger;
+}
