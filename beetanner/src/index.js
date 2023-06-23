@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import {Home, Honey, Bees, Services, ContactUs} from './App';
 import reportWebVitals from './reportWebVitals';
-import NavBar from './Navigation/NavBar'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
