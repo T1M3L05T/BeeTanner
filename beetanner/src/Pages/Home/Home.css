@@ -10,3 +10,7 @@
     text-align: center;
     font-size: larger;
 }
+p {
+    margin-left: 2%;
+    margin-right: 2%;
+}
