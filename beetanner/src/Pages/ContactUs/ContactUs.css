@@ -1,0 +1,38 @@
+#ContactUs_card{
+    margin: auto;
+    margin-top: 50px;
+    background-color: #3c3832;
+    width: 90%;
+    height: 800px;
+    color:aliceblue;
+    border-radius: 10px;
+    border: goldenrod 2px solid;
+    text-shadow: 0.5px 0.5px rgb(255,215,0,0.4);
+    text-align: center;
+    font-size: larger;
+}
+h3, h1 {
+    color: gold;
+}
+
+#Contact_Info {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    width: auto;
+    overflow: hidden;
+}
+
+
+#Email {
+    border: 1px solid gold;
+    width:100%;
+}
+#Address {
+    border: 1px solid gold;
+    width:100%;
+}
+#Phone {
+    border: 1px solid gold;
+    width:100%;
+}
