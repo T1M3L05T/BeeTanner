@@ -1,0 +1,7 @@
+#Honey-Formatter {
+    display: flex;
+    align-items: stretch;
+    justify-content:space-evenly;
+    width: auto;
+    flex-wrap: wrap;
+}
