@@ -30,6 +30,7 @@ function ContactUs() {
                     <p>14172 Forest Heights SubD <br /> Gonzales, LA 70769</p>
                 </div>
             </div>
+            
         </div>
     );
 }

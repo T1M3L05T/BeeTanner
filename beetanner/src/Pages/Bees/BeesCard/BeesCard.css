@@ -1,9 +1,9 @@
-#HoneyCard{
+#BeesCard{
     margin: 5%;
     background-color: #3c3832;
     width: auto;
     max-width: 360px;
-    height: 610px;
+    height: 700px;
     color:aliceblue;
     border-radius: 10px;
     border: goldenrod 2px solid;
@@ -16,18 +16,18 @@
     border-radius: 15px;
 }
 
-#Honey-img {
+#Bees-img {
     height: 360px;
     width:auto;
-    min-width: 300px;
+    max-width: 360px;
     background-color: aliceblue;
 }
-#Honey-Price {
+#Bees-Price {
     height: 50px;
     font-size: x-large;
 }
-#Honey-Details {
-    height: 80px;
+#Bees-Details {
+    height: 200px;
     overflow: hidden;
 }
 a:link {

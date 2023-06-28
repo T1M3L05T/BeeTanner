@@ -1,0 +1,12 @@
+textarea {
+    resize: none;
+    height: 100px;
+    width: 300px;
+}
+input {
+    width:300px;
+}
+
+input[type=submit] {
+    height:100x;
+}

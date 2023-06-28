@@ -1,4 +1,5 @@
 import React from 'react';
+import './ContactForm.css'
 
 
 class ContactForm extends React.Component {
@@ -55,7 +56,7 @@ class ContactForm extends React.Component {
         <label>
           Message:
           <br />
-          <input name='message' type="text" value={this.state.value} onChange={this.handleChange} />
+          <textarea name='message' value={this.state.value} onChange={this.handleChange} />
           <br /><br />
         </label>
         <label>

@@ -1,0 +1,14 @@
+time worked:8hrs
+fixed a navigation bug 
+built honey page 
+hard coded honey products in array
+formated honey page to match theme
+build Bees page 
+hard codded Bees Products 
+formatted Bees page to match theme
+made small adjustments to componets css to support mobile devices
+
+future:
+build sevices page 
+add details page 
+adjust Nav bar to support mobile devices

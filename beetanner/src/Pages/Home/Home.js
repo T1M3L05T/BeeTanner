@@ -4,7 +4,8 @@ import SlideShow from './HomeSlideShow/HomeSlideShow.js'
 
 function Home() {
     return (
-        <div>
+        <div id='Home-Formatter'>
+            <br />
             <SlideShow />
             <div id='Home_card'>
                 <h3>About Us</h3>

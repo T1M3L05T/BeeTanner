@@ -6,7 +6,7 @@ function Honey() {
         {
             id:1,
             Name: 'Quart Honey',
-            Description: 'Honey is RAW and unfiltered.  Made by bees in my backyard.',
+            Details: 'Honey is RAW and unfiltered.  Made by bees in my backyard.',
             image:'',
             Price: '12.00',
             Stock: 'Out of Stock',
@@ -14,14 +14,14 @@ function Honey() {
         {
             id:2,
             Name: '12oz Squeeze Honey',
-            Description: 'Same Honey in a smaller more convenient bottle.',
+            Details: 'Same Honey in a smaller more convenient bottle.',
             Price: '5.00',
             Stock: 'Out of Stock',
         },
         {
             id:3,
             Name: 'Comb Honey',
-            Description: 'Honey Comb taken straight out of the beehive.',
+            Details: 'Honey Comb taken straight out of the beehive.',
             image:'',
             Price: '',
             Stock: 'Made to Order',
@@ -29,7 +29,7 @@ function Honey() {
         {
             id:4,
             Name: 'Creamed Honey, Pint',
-            Description: 'Try our honey in a creamed form.  Same great Honey, only crystalized to a creamy texture.  Great for spreading on toast!',
+            Details: 'Try our honey in a creamed form.  Same great Honey, only crystalized to a creamy texture.  Great for spreading on toast!',
             image:'',
             Price: '',
             Stock: 'Made to Order',
@@ -37,7 +37,7 @@ function Honey() {
         {
             id:5,
             Name: 'Bee Pollen',
-            Description: '',
+            Details: 'To be create. Meantime Thank You for your interest',
             image:'',
             Price: '',
             Stock: 'Made to Order',
@@ -45,7 +45,7 @@ function Honey() {
         {
             id:6,
             Name: 'Propolis Ticture',
-            Description: '',
+            Details: 'To be create. Meantime Thank You for your interest',
             image:'',
             Price: '',
             Stock: 'Made to Order',

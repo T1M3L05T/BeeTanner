@@ -2,7 +2,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	height: 100vh;
+	height: auto;
 	/*overflow: hidden;*/
 	--sz: 8px; /*** size ***/
 	--sp: 10s; /*** speed ***/
@@ -15,7 +15,7 @@ body {
 }
 
 .App {
-	height: 100%;
+	height: auto;
 	background:
 		/* black shadows */
 		radial-gradient(circle at 50% 50%, var(--b4) calc(var(--sz) * 1), #fff0 calc(var(--sz) * 8)) var(--ts),

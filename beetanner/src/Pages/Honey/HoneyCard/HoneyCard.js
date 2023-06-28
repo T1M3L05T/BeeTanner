@@ -9,7 +9,7 @@ function HoneyCard(props) {
                     <img src={props.item.img} alt="Item" />
                 </div>
                 <div id='Honey-Price'>${props.item.Price}</div>
-                <div id='Honey-Description'>{props.item.Description}</div>
+                <div id='Honey-Details'>{props.item.Details}</div>
                 <div id='Honey-Stock'>{props.item.Stock}</div>
             </div>
         </a>
